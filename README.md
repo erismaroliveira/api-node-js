@@ -19,9 +19,9 @@
  - Json Web Token
  - CRUD
  
- ### 🛒 Pré-requisitos
+ ### Pré-requisitos 🛒
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
  [Git](https://git-scm.com/),
  [Node.js](https://nodejs.org/pt-br/),
  [Mongodb](https://mongodb.com)
@@ -29,7 +29,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
  
  Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
  
-   ### 📀Rodando a Aplicação
+ ### Rodando a Aplicação 📀
    
 ````bash 
  # Clone este repositório
