@@ -24,7 +24,7 @@
  Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
  [Git](https://git-scm.com/),
  [Node.js](https://nodejs.org/pt-br/),
- [Mongodb](https://mongodb.com)
+ [MongoDB](https://mongodb.com)
 
  
  Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
