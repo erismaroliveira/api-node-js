@@ -9,8 +9,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/erismaroliveira/api-node-js?style=social)](https://github.com/erismaroliveira/api-node-js/stargazers)
 
 ## Description
-  - 🔑 Esse projeto é uma API desenvolvida em Node.js 
- Feita com base nesta <a href="https://www.youtube.com/playlist?list=PL85ITvJ7FLoiXVwHXeOsOuVppGbBzo2dp">série</a>
+  - Esse projeto é uma API desenvolvida em Node.js 
+ Feita com base nesta <a href="https://www.youtube.com/playlist?list=PL85ITvJ7FLoiXVwHXeOsOuVppGbBzo2dp">série 🔑</a>
 
 ## Knowledges Applied 🚀
  - Node JS
